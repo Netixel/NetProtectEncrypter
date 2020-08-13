@@ -37,7 +37,7 @@ namespace NetProtectEncrypter.Encrypter
         public int ProtectAssembly() //each protection should be its own "step" that kinda acts like a module (this means we *could* make this modular)
         {
             //TODO: obfuscate strings
-
+            
             //TODO: obfuscate numbers
 
             //TODO: obfuscate calls

@@ -37,3 +37,22 @@ J:\Github\NetProtect\Application\NetProtectEncrypter\obj\x64\Debug\NetProtectEnc
 J:\Github\NetProtect\Application\NetProtectEncrypter\obj\x64\Debug\NetProtectEncrypter.csproj.CopyComplete
 J:\Github\NetProtect\Application\NetProtectEncrypter\obj\x64\Debug\NetProtectEncrypter.exe
 J:\Github\NetProtect\Application\NetProtectEncrypter\obj\x64\Debug\NetProtectEncrypter.pdb
+G:\Software Projects\Professional Projects\NetProtect\Application\NetProtectEncrypter\bin\x64\Debug\NetProtectEncrypter.exe.config
+G:\Software Projects\Professional Projects\NetProtect\Application\NetProtectEncrypter\bin\x64\Debug\NetProtectEncrypter.exe
+G:\Software Projects\Professional Projects\NetProtect\Application\NetProtectEncrypter\bin\x64\Debug\NetProtectEncrypter.pdb
+G:\Software Projects\Professional Projects\NetProtect\Application\NetProtectEncrypter\bin\x64\Debug\CommandLine.dll
+G:\Software Projects\Professional Projects\NetProtect\Application\NetProtectEncrypter\bin\x64\Debug\Mono.Cecil.dll
+G:\Software Projects\Professional Projects\NetProtect\Application\NetProtectEncrypter\bin\x64\Debug\Mono.Cecil.Mdb.dll
+G:\Software Projects\Professional Projects\NetProtect\Application\NetProtectEncrypter\bin\x64\Debug\Mono.Cecil.Pdb.dll
+G:\Software Projects\Professional Projects\NetProtect\Application\NetProtectEncrypter\bin\x64\Debug\Mono.Cecil.Rocks.dll
+G:\Software Projects\Professional Projects\NetProtect\Application\NetProtectEncrypter\bin\x64\Debug\Newtonsoft.Json.dll
+G:\Software Projects\Professional Projects\NetProtect\Application\NetProtectEncrypter\bin\x64\Debug\PeNet.Asn1.dll
+G:\Software Projects\Professional Projects\NetProtect\Application\NetProtectEncrypter\bin\x64\Debug\PeNet.dll
+G:\Software Projects\Professional Projects\NetProtect\Application\NetProtectEncrypter\bin\x64\Debug\System.Security.Cryptography.Pkcs.dll
+G:\Software Projects\Professional Projects\NetProtect\Application\NetProtectEncrypter\bin\x64\Debug\CommandLine.xml
+G:\Software Projects\Professional Projects\NetProtect\Application\NetProtectEncrypter\bin\x64\Debug\Newtonsoft.Json.pdb
+G:\Software Projects\Professional Projects\NetProtect\Application\NetProtectEncrypter\bin\x64\Debug\Newtonsoft.Json.xml
+G:\Software Projects\Professional Projects\NetProtect\Application\NetProtectEncrypter\obj\x64\Debug\NetProtectEncrypter.csprojAssemblyReference.cache
+G:\Software Projects\Professional Projects\NetProtect\Application\NetProtectEncrypter\obj\x64\Debug\NetProtectEncrypter.csproj.CopyComplete
+G:\Software Projects\Professional Projects\NetProtect\Application\NetProtectEncrypter\obj\x64\Debug\NetProtectEncrypter.exe
+G:\Software Projects\Professional Projects\NetProtect\Application\NetProtectEncrypter\obj\x64\Debug\NetProtectEncrypter.pdb
